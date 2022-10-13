@@ -20,3 +20,7 @@ description: 难度：中等
 
 ### 解答
 
+{% embed url="https://leetcode.cn/problems/zi-fu-chuan-de-pai-lie-lcof/solution/mian-shi-ti-38-zi-fu-chuan-de-pai-lie-hui-su-fa-by/" %}
+先把题解放着，我属实是看不懂
+{% endembed %}
+
