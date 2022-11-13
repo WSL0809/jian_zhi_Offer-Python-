@@ -5,7 +5,7 @@ description: 这里我构建的是一个二叉排序树
 # 构建二叉树
 
 ```python
-
+#这段代码可以在Solution.py中找到
 class TreeNode:
     def __init__(self, value):
         self.value = value
