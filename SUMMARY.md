@@ -9,4 +9,4 @@
   * [剑指 Offer 09. 用两个栈实现队列](zhan-he-dui-lie/jian-zhi-offer-09.-yong-liang-ge-zhan-shi-xian-dui-lie.md)
   * [剑指 Offer 39. 数组中出现次数超过一半的数字](zhan-he-dui-lie/jian-zhi-offer-39.-shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi.md)
 * [二叉树](er-cha-shu/README.md)
-  * [Page 1](er-cha-shu/page-1.md)
+  * [构建二叉树](er-cha-shu/gou-jian-er-cha-shu.md)
